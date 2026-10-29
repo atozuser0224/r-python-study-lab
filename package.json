@@ -1,0 +1,7 @@
+{
+  "name": "r-python-study-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Korean R and Python study guide with browser execution and exercises",
+  "scripts": { "build": "python src/build.py", "test": "node tests/verify.cjs" }
+}
